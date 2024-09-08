@@ -1,0 +1,81 @@
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+}
+h2 {
+  margin-bottom: 20px;
+}
+figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img {
+  width: 60%;
+  height: auto;
+  max-width: 600px;
+  max-height: auto;
+  margin-top: 20px;
+}
+
+#img-div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.header {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e6e6e2;
+  width: 98%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  align-items: center;
+}
+ul {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+li {
+  margin-top: 10px;
+}
+figure {
+  background-color: #fff;
+  width: 98%;
+}
+figcaption {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tribute-link {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.tribute-link-text {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+a {
+  color:;
+}
